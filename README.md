@@ -2,4 +2,7 @@
 Hi, am Francis. This portfolio showcases my Devops learning jorney.
 
 ## Sections
--[About me](about.me) 
+-[About me](about.me)
+
+## Projects
+- DevOps Lab 1  
