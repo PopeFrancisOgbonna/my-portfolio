@@ -1,6 +1,9 @@
 # Git Lab Report
 ## Screenshots
 
+![alt text](Git_Assignment.png)
+![alt text](Git_assignment_conflict.png) ![alt text](Git_Assignment_git_log.png) ![alt text](Git_assignment_merge.png) ![alt text](Git_assignment_pull.png) ![alt text](Git_assignment_pullrequest.png)
+
 ## Reflection
 This lab helped me understand branching, merging, and conflict resolution.
 The merge conflict section was the most challenging but showed how Git manages team collaboration.
